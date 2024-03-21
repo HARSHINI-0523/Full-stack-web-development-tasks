@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Webpage1.html</title>
+    </head>
+    <body>
+        <p>
+        This is my first <strong>paragraph</strong> in my new webpage.This is going to be great.I am so excited I can hardly contain <strong>myself</strong>.Don't you just love paragraphs?I find them very useful.</p>
+        <h1>Web Pages Are Exciting Too</h1>
+        <p>
+        Yes,that's right-web pages can be a lot of fun.Learning how to create web pages is easy and <strong>entertaining</strong>.This is my second <em>paragraph</em>.I hope you like it.</p>
+        <a href="https://www.google.com/">Link to Google</a>
+        <ul>
+            <li>Apples</li>
+            <li>Bananas</li>
+            <li>Pears</li>
+            <li>Oranges</li>
+            <li>Grapes</li>
+        </ul>  
+        <ul>
+            <li>Fruits</li>
+        <ul>
+            <li>Apple</li>
+            <li>Banana</li>
+            <li>Mango</li>
+            <li>Orange</li>
+        </ul>
+            <li>Vegetables</li>
+        <ul>
+            <li>Spinach</li>
+            <li>Cauliflower</li>
+            <li>Beetroot</li>
+        </ul>
+        <li>Cereals</li>
+        <li>Nuts</li>
+        </ul>
+    </body>
+</html>
