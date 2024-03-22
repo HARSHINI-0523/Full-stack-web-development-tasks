@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Black Goose Bistro</title>
+    </head>
+    <body>
+       <p style="text-align:center"><img src="https://learningwebdesign.com/4e/materials/chapter04/bistro/blackgoose.png" alt="not available">
+  </p>
+    <h1 style="text-align:center">BLACK GOOSE BISTRO</h1>
+    <hr>
+    <h2>The Restaurant</h2>
+    <p>The Black Goose Bistro offers lunch and dinner fare in a hip atmosphere.The menu changes 
+        regularly to highlight the freshest ingredients.
+    </p>
+    <h2>Catering</h2>
+        <p>You have fun...<em>we'll handle the cooking.Black Goose Catering can handle events from snacks for bridge
+          club to elegant corporate fundraisers.</em>
+        </p>
+    <h2>Location and Hours</h2>
+    <p>
+      <em>Seekonk, Massachusetts;</em>
+    </p>
+    <p>
+      <em>Monday through Thursday 11am to 9pm,</em>
+    </p>
+    <p>
+      <em>Friday and Saturday,11am to midnight</em>
+    </p>
+    </body>
+</html>
