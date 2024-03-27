@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles1.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="header">
+        <ul>
+            <h3>Home</h3>
+            <h3>Tech User Profiles</h3>
+            <h3>More</h3>
+        </ul>
+    </div>
+    <div class="parent">
+        <div class="child1">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2mya9PSFriBqRj-y5Gyn89XeMbjJQjbpfpTQar9rJb479HNTB22AUhhjgn9CS4qhGJ4&usqp=CAU">
+            <h2>Test User</h2>
+            <h4>Web Developer</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus laudantium saepe sequi necessitatibus aut eum totam molestiae, voluptatum ipsa vero esse explicabo. Magnam nulla, quos sequi modi at odit harum!</p>
+        </div>
+        <div class="child2">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2mya9PSFriBqRj-y5Gyn89XeMbjJQjbpfpTQar9rJb479HNTB22AUhhjgn9CS4qhGJ4&usqp=CAU">
+            <h2>Test User</h2>
+            <h4>Web Developer</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus laudantium saepe sequi necessitatibus aut eum totam molestiae, voluptatum ipsa vero esse explicabo. Magnam nulla, quos sequi modi at odit harum!</p>
+        </div>
+        <div class="child3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2mya9PSFriBqRj-y5Gyn89XeMbjJQjbpfpTQar9rJb479HNTB22AUhhjgn9CS4qhGJ4&usqp=CAU">
+            <h2>Test User</h2>
+            <h4>Web Developer</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus laudantium saepe sequi necessitatibus aut eum totam molestiae, voluptatum ipsa vero esse explicabo. Magnam nulla, quos sequi modi at odit harum!</p>
+        </div>
+    </div>
+   
+</body>
+</html>

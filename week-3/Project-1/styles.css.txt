@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}    
+
+body{
+    background-color:#eefcfc;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-top: 20px;
+    text-decoration:underline;
+
+}
+
+table,td,th{
+    width:500px;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color:bisque;    
+}

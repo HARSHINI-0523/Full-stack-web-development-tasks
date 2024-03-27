@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tables</title>
+</head>
+<body>
+    <h1>TABLES</h1>
+    <!--Table-1-->
+    <h2>TABLE-1</h2>
+    <table>
+        <thead>
+        <tr>
+            <th colspan="4">TITLE</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <th colspan="2">subtitle</th>
+            <th colspan="2">subtitle</th>
+        </tr>
+        <tr>
+         <td>
+            <div>1 item</div>
+            <div>1 item</div>
+            <div>1 item</div>
+         </td>
+         <td>
+            <div>123</div>
+            <div>123</div>
+            <div>123</div>
+         </td>   
+         <td>
+            <div>1 item</div>
+            <div>1 item</div>
+            <div>1 item</div>
+         </td>
+         <td>
+            <div>123</div>
+            <div>123</div>
+            <div>123</div>
+         </td>
+         </tr>
+         <tr>
+            <th colspan="2">sub subtitle</th>
+            <th colspan="2">sub subtitle</th>
+        </tr>
+    </tbody>
+    </table>
+
+    <!--Table-2-->
+    <h2>TABLE-2</h2>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2">Subject</th>
+                <th>John Doe</th>
+                <th>Miriam Luther</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th rowspan="2">Biology</th>
+                <td>Practical</td>
+                <td>A</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>Theory</td>
+                <td>A+</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <th rowspan="2">Chemistry</th>
+                <td>Practical</td>
+                <td>B</td>
+                <td>C</td>
+            </tr>
+            <tr>
+                <td>Theory</td>
+                <td>A</td>
+                <td>C+</td>
+            </tr>
+            <tr>
+                <th rowspan="2">Physics</th>
+                <td>Practical</td>
+                <td>A</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>Theory</td>
+                <td>A-</td>
+                <td>A-</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html

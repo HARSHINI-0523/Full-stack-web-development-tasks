@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.header
+{
+    background-color: rgb(80, 80, 80);
+    color: whitesmoke;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header ul{
+    width: 12000px ;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    text-align: center;
+}
+
+body,html{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDJ9ulXuspQlecYSSvt3um8rSSytCQYJEgg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    margin-left: 85px;
+    margin-top: 25px;
+    border: 2px solid black;
+}
+
+p{
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 8px;
+    margin-right: px;
+}
+
+.parent
+{
+    height: 500px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.child1,.child2,.child3 
+{
+    width:270px;
+    height: 375px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: #a2c4e6;
+    border: 5px solid black;
+    box-shadow: 5px 5px 10px 0px rgba(0,0,0,1)
+}
+
+button{
+    border: 2px solid black;
+    
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 20px;
+    margin-left: 95px;
+    margin-right:95px;
+    color: rgb(24, 23, 23);
+    width:75px;
+}
+
+.footer
+{
+    background-color: rgb(80, 80, 80);
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding:20px;
+    justify-content: space-evenly;
+}

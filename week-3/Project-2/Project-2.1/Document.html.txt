@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Places</title>
+</head>
+<body>
+    <div class="header">
+        <ul>
+            <li>Home</li>
+            <li>Features</li>
+            <li>Lifestyle</li>
+            <li>Technology</li>
+            <li>All articles</li>
+        </ul>
+     </div>  
+    <div class="parent1">
+        <div class="child1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Hhut3yHMO5ILPK5ZqY2B6QnuYMMbMjlPzqtZjLq1ACMCEghR" alt="Not available">
+        <h3>Seamlessly visualize quality</h3>
+        <p>Collaboratively administrate empowered markets via plug-and-play networks.</p>
+        <br><button>Here's why</button>
+        </div>
+        <div class="child2">
+        <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfxLuKZvbZQCzcMWgj4tPw0ClKmbeC1qg6rS2uephWNytAk3PG" alt="not available">
+        <h3>Completely Synergize</h3>
+        <p> Dramatically engage seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing.</p>
+        <button>Here's how</button>
+    </div>
+    <div class="child3">
+        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT33tA5esL6oGFVMikVaKqjaUcrmPaen6gp1uNLnbrVokpjzsLA" alt="Not available">
+        <h3>Dynamically Procrastinate</h3>
+        <p>Completely synergize resource taxing relationships via premier niche markets.</p>
+        <br><button>Here's how</button>
+    </div>
+    </div>
+   <div class="parent2">
+        <div class="child4">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUA7gcmjSEm8c1O_6yXexfGC5nRXulwZNJyUKbT_5Pri8KPvhB" alt="Not available">
+        <h3>Best in class</h3>
+        <p>Imagine jumping into that boat, and just letting it sail wherever the wind takes you...</p>
+        <br><button>Just do it...</button>
+        </div>
+        <div class="child5">
+            <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3VfAvR9P75h6oUz5HV7jcWT_oR6Nq7NCfEbWL9jjIDjyGL5uv" alt="">
+            <h3>Dynamically innovate supply chains</h3>
+            <p>holisticly predominate extensible testing procedures for reliable supply chains.</p>
+            <br><button>here's why</button>
+        </div>
+        <div class="child6">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGXCOYmpSRSbjNcAKXVKbOKtgefI5xOEquqU4x9jShJkhen8x" alt="not available">
+            <h3>Sanity check</h3>
+            <p>Objectively innovate empowered manufactured products whereas parallel platforms.</p>
+            <button>Stop here</button>
+        </div>
+     </div>
+     
+            <h3><a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/xxebJjL" target = "blank">Next Page</a></h3>
+    </body>
+</html>

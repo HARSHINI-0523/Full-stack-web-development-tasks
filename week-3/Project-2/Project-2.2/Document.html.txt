@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles1.css">
+    <link href="https://fonts.googleapis.com/css2?family=Abel&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+ <div class="header">
+    <ul>
+        <li>Home</li>
+        <li>Features</li>
+        <li>Lifestyle</li>
+        <li>Technology</li>
+        <li>All articles</li>
+    </ul>
+ </div>  
+ <div class="parent">
+    <div class="child1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrwwtl5w106Imxo8k8IhlZIMHYmGI8hDTXLA&usqp=CAU">
+        <br><button>Travel</button>
+        <h3>Golden Gate Bridge</h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis possimus nulla asperiores pariatur delectus inventore praesentium impedit illum ut ipsum.</p>
+    </div>
+    <div class="child2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnPMPzVNzat1dLVA6HdxJz2CEFRBI_r6KsA&usqp=CAU">
+        <br><button>Technology</button>
+        <h3>We bought a Drone!</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt pariatur quia quae enim? Molestiae nihil et, sed fuga natus incidunt!</p>
+    </div>
+    <div class="child3">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm04b5pGDBXwI79rVkX8oaJ4BzZvRM6zi-RQ&usqp=CAU">
+        <br><button>Fashion</button>
+        <h3>This Week's Accessories</h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eligendi vitae saepe voluptatum laudantium, itaque temporibus perspiciatis distinctio debitis labore minus!</p>
+    </div>
+    <div class="child4">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZspm6ZpG8nZtRZg4Slrws-UDmd99XLVr4A&usqp=CAU">
+        <br><button>Fashion</button>
+        <h3>Denim for Spring</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus, rerum distinctio provident dolorum cupiditate est aperiam? Ea quaerat tempore voluptatibus?</p>
+    </div>
+ </div> 
+</body>
+</html>

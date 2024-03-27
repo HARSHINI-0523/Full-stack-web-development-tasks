@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profiles</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <ul>
+            <li>Home</li>
+            <li>Technology</li>
+            <li>Profiles</li>
+            <li>Jobs</li>
+            <li>More</li>
+        </ul>
+     </div>  
+    <div class="parent">
+        <div class="child1">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyss5diO32inw-P16AqVuXovuWNXX7PKxd5Q&usqp=CAU">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aspernatur voluptatum quod facilis aperiam sit est odio sequi? Consequatur possimus expedita dicta molestias, iure esse modi tempora natus porro ullam odio voluptates veniam aliquid! Placeat!</p>
+       <a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/wvZBxNV" target = "_blank"><button>Profile</button></a>
+        </div>
+        <div class="child2">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyss5diO32inw-P16AqVuXovuWNXX7PKxd5Q&usqp=CAU">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aspernatur voluptatum quod facilis aperiam sit est odio sequi? Consequatur possimus expedita dicta molestias, iure esse modi tempora natus porro ullam odio voluptates veniam aliquid! Placeat!</p>
+             <a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/wvZBxNV" target = "_blank"><button>Profile</button></a>
+        </div>
+        <div class="child3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyss5diO32inw-P16AqVuXovuWNXX7PKxd5Q&usqp=CAU">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate aspernatur voluptatum quod facilis aperiam sit est odio sequi? Consequatur possimus expedita dicta molestias, iure esse modi tempora natus porro ullam odio voluptates veniam aliquid! Placeat!</p>
+            <a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/wvZBxNV" target = "_blank"><button>Profile</button></a>
+        </div>
+    </div>
+    <div class="footer">
+        <ul>
+        <p>Plot No:43-110</p>
+        <p>City:Vijayawada</p>
+        <p>Pincode:520010</p>
+        </ul>
+        <ul>
+            <p>Plot No:41-11</p>
+            <p>City:Vijayawada</p>
+            <p>Pincode:520013</p>
+            </ul>
+    </div>
+</body>
+</html>
