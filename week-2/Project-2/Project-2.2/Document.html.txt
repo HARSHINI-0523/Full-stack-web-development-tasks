@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyderabad</title>
+    <link href="https://fonts.googleapis.com/css2?family=Annapurna+SIL:wght@400;700&family=Oswald:wght@200..700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="hydstyles.css">
+</head>
+<body>
+    <h1>Hyderabad</h1>
+    <img src="https://miro.medium.com/v2/resize:fit:1358/0*6C2dgNn112_WXPYi" alt="HiTech City">
+    <img src="https://content.r9cdn.net/rimg/dimg/e3/36/d71f2b55-city-7297-16494c3d70c.jpg?width=1366&height=768&xhint=3186&yhint=1580&crop=true" alt="Charminar">
+   <img src="https://images.deccanchronicle.com/dc-Cover-0jcpeojs33t4t3scelrodh0kc2-20190709011610.Medi.jpeg" alt="Golkkonda Fort">
+    <p>Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 542 m (1,778 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 Census of India, Hyderabad is the fourth-most populous city in India with a population of 6.9 million residents within the city limits, and has a population of 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India. With an output of US$74 billion, Hyderabad has the fifth-largest urban economy in India.</p>
+    <p>The Qutb Shahi dynasty's Muhammad Quli Qutb Shah established Hyderabad in 1591 to extend the capital beyond the fortified Golconda. In 1687, the city was annexed by the Mughals. In 1724, Asaf Jah I, the Mughal viceroy, declared his sovereignty and founded the Asaf Jahi dynasty, also known as the Nizams. Hyderabad served as the imperial capital of the Asaf Jahis from 1769 to 1948. As capital of the princely state of Hyderabad, the city housed the British Residency and cantonment until Indian independence in 1947. Hyderabad was annexed by the Indian Union in 1948 and continued as a capital of Hyderabad State from 1948 to 1956. After the introduction of the States Reorganisation Act of 1956, Hyderabad was made the capital of the newly formed Andhra Pradesh. In 2014, Andhra Pradesh was split to form the state of Telangana, and Hyderabad became the joint capital of the two states with a transitional arrangement scheduled to end in 2024. Since 1956, the city has housed the Rashtrapati Nilayam, the winter office of the president of India.</p>
+</body>
+</html>

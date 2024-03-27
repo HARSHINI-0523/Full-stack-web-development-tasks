@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangalore</title>
+    <link rel="stylesheet" href="bangstyles.css">
+</head>
+<body>
+    <h1>Bangalore</h1>
+    <img src="https://www.holidify.com/images/bgImages/BANGALORE.jpg" alt="not available">
+    <img src="https://economictimes.indiatimes.com/thumb/height-450,width-600,imgsize-366344,msid-102165197/bangalore-metro.jpg?from=mdr" alt="not available">
+    <img src="https://cdn.britannica.com/56/177656-050-04529521/Glass-House-conservatory-building-Lalbagh-Botanical-Garden.jpg" alt="not available">
+    <p>Bangalore, officially Bengaluru, is the capital and largest city of the southern Indian state of Karnataka. It has a population of more than 8 million 
+        and a metropolitan population of around 15 million, making it India's third most populous city and fourth most populous urban agglomeration. It is the most 
+        populous city and largest urban agglomeration in South India, and is the 27th largest city in the world. Located on the Deccan Plateau, at a height of over 900 m 
+        (3,000 ft) above sea level, Bangalore has a pleasant climate throughout the year, with its parks and green spaces earning 
+        it the reputation of India's "Garden City". Its elevation is the highest of India's major cities.</p>
+    <p>Bangalore is sometimes referred to as the “Silicon Valley of India” (or “IT capital of India”) because of its role as the nation's leading information technology (IT) exporter. Indian technological organisations ISRO, Infosys, Wipro and HAL are headquartered in the city.</p>
+</body>
+</html>
