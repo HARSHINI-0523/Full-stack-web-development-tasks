@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week-4 Assignment-2.1</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="parent">
+        <div class="item1"><h1>HEADING</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates natus dolorem aliquam enim cumque, quas necessitatibus a! Quasi recusandae dignissimos magnam suscipit at delectus ipsam.</p>
+        </div>
+        <div class="item2"><h1>HEADING</h1></div>
+        <div class="item3"><h1>HEADING</h1></div>
+        <div class="item4"><h1>HEADING</h1></div>
+        <div class="item5"><h1>HEADING</h1>
+        <p>Lorem ipsum dolor sit.</p>
+        </div>
+        <div class="item6"><h1>HEADING</h1>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis dolor, expedita dicta delectus officia tenetur eum atque quo. Asperiores a vero autem magnam commodi consequuntur fugit qui. Odio consequuntur ipsa facilis optio rem mollitia velit pariatur! Repellendus unde totam laborum incidunt esse? Autem molestiae reiciendis necessitatibus rerum eos sequi eligendi!</p>
+        </div>
+        <div class="item7"><h1>HEADING</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla laborum cupiditate, beatae quod vel accusantium natus nisi id veniam sapiente!</p>
+        </div>
+        <div class="item8"><h1>HEADING</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur ipsa, deleniti nisi dolore possimus corporis!</p>
+        </div>
+        <div class="item9"><h1>HEADING</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel corporis sunt omnis.</p>
+        </div>
+        <div class="imag">
+        <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrk3tTmOUcTTnr-oIz3vNFPtXb74nhRr1xAg&s">
+    </div>
+</div>
+  <center><a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/KKYqNPm" target = _blank>Next Assignment</a></center>
+</body>
+</html>

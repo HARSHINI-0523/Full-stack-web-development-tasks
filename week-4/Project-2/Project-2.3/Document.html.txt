@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week-4 Assignment-2.3</title>
+    <link rel="stylesheet" href="styles2.css">
+</head>
+<body>
+    <div class="head">
+        <img src  = "https://i.pinimg.com/736x/39/fa/59/39fa5973401bd96c44d58b99521841e6.jpg">
+        <ul>
+            <li>
+                <label for="I1">Why Ramp</label>
+                <select name="I1" id="I1">
+                    <option></option>
+                </select>
+            </li>
+            <li>
+                <label for="I2">Products</label>
+                <select name="I2" id="I2">
+                    <option></option>
+            </select>
+        </li>
+        <li>
+            <label for="I3">Solutions</label>
+            <select name="I3" id="I3">
+                <option></option>
+            </select>
+        </li>
+        <li>
+            <label for="I4">Partners</label>
+            <select name="I4" id="I4">
+                <option>Others</option>
+            </select>
+        </li>
+        <li>Resources</li>
+        </ul>
+        <div class="head_1">
+            <ul>
+                <li>Pricing</li>
+                <li>Sign in</li>
+            </ul>
+        </div>    
+    </div>
+    <div class="parent">
+    <div class="child1">
+        <h1>Hard-working</h1>
+        <h1>capital</h1>
+        <p>The funds you need, the tools to deploy them and revolutionary spend controls to rest easy.</p>
+        <br>
+        <div class="a">
+            <input type="email" id="button" placeholder="What's your work email?">
+        <div class="b"> 
+            <label for="button"><h4>Get Started</h4></label></div> 
+        </div>
+        <p>No personal credit checks or founder guarantee </p>
+    </div>
+    <div class="child2"></div>
+    </div>
+    <center><a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/oNOwZOJ" target="_blank">Next Assignment</a></center>
+</body>
+</html>

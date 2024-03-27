@@ -1,0 +1,128 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.head {
+    background-color: white;
+    font-size: 1.4rem;
+    margin-top: 20px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.head_1 {
+    font-size: 1.6rem;
+    color: aqua;
+    display: flex;
+    gap: 20px;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+.head_1 p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+    margin-left: 10px;
+    margin-right: 20px;
+    font-family: "Goudy Bookletter 1911", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.p1 {
+    color: white;
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Goudy Bookletter 1911", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+    font-size: 1.4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.body1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+    border: 2px solid black;
+}
+
+.body1 {
+    background-color: rgb(49, 206, 206);
+    width: 100%;
+    height: 300px;
+    display: block;
+}
+
+.body2_2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    width: 300px;
+    border:2px solid black ;
+}
+.body1 h3 {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    font-family: "Goudy Bookletter 1911", serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+.body2 {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    margin-left: 40px;
+    text-align: left;
+}
+.body2 .body2_1
+{
+    margin-left: 40px;
+    text-align: left;
+}
+
+p {
+    color: black;
+    text-align: left;
+}
+
+@media screen and (max-width:576px) {
+    .body2 {
+        font-size: 1rem;
+        flex-direction: column;
+    }
+
+    .head {
+        font-size: 1.2rem;
+        height: auto;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .head_1 {
+        font-size: 1.4rem;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

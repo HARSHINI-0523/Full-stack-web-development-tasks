@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head
+{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+}
+.head ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+.head img{
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.head ul li{
+    margin-right: 15px;
+    padding-right: 15px;
+    margin-top: 15px;
+}
+.parent
+{
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    background-color: whitesmoke;
+    display: grid;
+    text-align: left;
+    margin-top: 15PX;
+}
+.parent h1{
+    font-size:5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parent .child1 {
+    grid-column: 1/2;
+    grid-row: 1/4;
+    margin-left: 25px;
+    margin-right: 150px;
+    white-space: nowrap;
+
+}
+.parent .child1 p{
+    font-weight: bold;
+    margin-top: 15px;
+}
+.parent input{
+    width:200px;
+    height:50px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.parent .b{
+    width:120px;
+    height:50px;
+    padding:15px;
+     font-size:1.25rem;
+     background-color:black;
+     color:white;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+.a{
+   display:flex; 
+}
+
+.parent .child2 {
+    grid-column: 2/3;
+    grid-row: 1/4;
+    background-image: url('https://assets-global.website-files.com/5f8dd056c51c1d04c3eaa497/633259341f8d5106061e06d6_scale-hero-p-800.webp');
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    width:750px;
+    margin-left: 10px;
+}
+a{
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(2, 0, 128);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}

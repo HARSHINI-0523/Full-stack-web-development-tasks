@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+.parent
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 2fr 1fr;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+   
+    gap: 1px;
+}
+.item1
+{
+    background-color: black;
+    grid-column: 1/1;
+    grid-row: 1/1;
+    text-align: left;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.item2
+{
+    background-color: rgb(51, 7, 199);
+    grid-column: 2/2;
+    grid-row: 1/1;
+    text-align: center;
+    color:white;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+.item3
+{
+    background-color: rgb(44, 246, 64);
+    grid-column: 3/3;
+    grid-row: 1/1;
+    text-align: center;
+    color:white;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+.item4
+{
+    background-color: black;
+    grid-column: 4/4;
+    grid-row: 1/1;
+    text-align: center;
+    color:white;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.item5
+{
+    background-color: rgb(165, 165, 248);
+    grid-column: 1/1;
+    grid-row: 2/4;
+    text-align: center;
+    color: white;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.item6
+{
+    background-color: black;
+    grid-column: 2/4;
+    grid-row: 2/2;
+    text-align: left;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 100px;
+}
+.item7
+{
+    background-color:rgb(165, 165, 248);
+    grid-column: 4/4;
+    grid-row: 2/4;
+    text-align: left;
+    color: white;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.item8
+{
+    background-color: rgb(51, 7, 199);
+    grid-column: 2/2;
+    grid-row: 3/3;
+    text-align: left;
+    color:white;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.item9
+{
+    background-color: rgb(44, 246, 64);
+    grid-column: 3/3;
+    grid-row: 3/3;
+    text-align: left;
+    color:white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+}
+img{
+    border-radius: 50%;
+    width: 50px;
+    margin-top: 10px;
+    position: fixed;
+    display: flex;
+    bottom:10px;
+    right:20px;
+}
+a{
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(2, 0, 128);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 70px;
+}

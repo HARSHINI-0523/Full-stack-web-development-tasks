@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week-4 Assignment-1.2</title>
+    <link rel="stylesheet" href="Styles1.css">
+<link href="https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="head">
+        <h2>Best City Guide</h2>
+        <div class="head_1">
+            <div>ICE CREAM</div>
+            <div>DONUTS</div>
+            <div>TEA</div>
+            <div>COFFEE</div>
+        </div>
+    </div>
+    <div class="body1">
+        <br>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9wNO-SvxszypxIF8H_JFsrKe89vom-o_Tw&s" alt="">
+        <h3>The Best City</h3>
+        <p class="p1" style="text-align: center;">The best drinks and eats in the best city ever.</p>
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="body2">
+        <div class="body2_1">
+            <h2 style="color: rgb(64, 64, 163);">Welcome!</h2>
+            <br>
+            <p>Baked goods have been around for thousands of years. The art of baking was very popular during the Roman Empire. It was highly famous art as Roman citizens loved baked goods and demanded them frequently for important occasions such as feasts and weddings. Because of the fame of the art of baking, around 300 BC, baking was introduced as an occupation and respectable profession for Romans. </p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat eaque voluptatem minima. Distinctio necessitatibus expedita soluta possimus repudiandae ut, non, maxime temporibus quibusdam nisi explicabo dolorum neque, eaque vero consequatur.</p>
+            <br>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta laborum aliquam praesentium voluptatem eos, molestiae dolores, sit nihil illum fuga quaerat, numquam nostrum cumque doloremque necessitatibus facilis harum minus aut unde! Numquam quidem asperiores unde in rerum iste, velit ut.</p>
+        </div>
+        <div class="body2_2">
+            <h2 style="color: rgb(64, 64, 163);">Great Food</h2>
+            <br>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27nBVsAC9WPTY1yUFdTFs3_yONgycVoNLLA&s">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora nostrum, minima corrupti consequatur quo commodi molestiae deleniti voluptatibus, animi delectus sapiente nobis earum quas. Quo culpa ea, rem atque accusantium minus possimus? Quidem ipsam hic blanditiis dolorum veniam, et perspiciatis?</p>
+        </div>
+        <div class="body2_3">
+            <h2 style="color: rgb(64, 64, 163);">How to get here</h2>
+            <p>On July 7, 1928, a bakery in Chillicothe, Missouri introduced sliced bread using the automatic bread-slicing machine, invented by Otto Frederick Rohwedder. While the bread initially failed to sell, due to its "sloppy" aesthetic, and the fact it went stale faster, it later became popular.In World War II bread slicing machines were effectively banned, as the metal in them was required for wartime use. When they were requisitioned, creating 100 tons of metal alloy, the decision proved very unpopular with housewives.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui optio recusandae esse debitis dolorum itaque distinctio officiis unde magni tenetur?</p>
+            <br>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque inventore molestias voluptate assumenda voluptates aperiam architecto alias blanditiis explicabo dolor?</p>
+        </div>
+    </div>
+</body>
+</html>

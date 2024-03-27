@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>week 4 Assignment-1.1</title>
+</head>
+<body>
+    <div class="header">
+        <h1 class="head1">Libertarians></h1>
+    </div>
+    <div class="body">
+        <div class="body_1">
+            <h1 class="head2" style="color: white;">Down with the state</h1> 
+            <p style="color: white;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam magni corporis, quia maxime rerum eligendi quod, aperiam sequi eaque atque tenetur sed nemo! Fugit vel alias fugiat eum, ratione maiores!</p>  
+        </div>   
+        <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNA7WpuS2v3YkwJxfLzFZseEwDDtqvKj2fOMph2iq1NmkcLSDH" alt="">
+    </div>
+    <div class="body_2">
+        <div class="body_2_1">
+            <h2>But what about the roads?</h2>
+            <p >Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus sint id vel quam consequuntur nesciunt voluptatibus nihil nemo modi eaque facilis itaque earum quis tenetur ipsum, ipsam quia eos veritatis? Quaerat enim officiis eaque, doloremque a exercitationem facilis nostrum perspiciatis inventore consectetur optio eveniet eum non aliquam velit rem provident.</p>
+        </div>
+        <div class="body_2_2">
+            <h2>In taxation theft?</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero soluta culpa totam, quia officia corrupti eligendi illum perspiciatis architecto! Obcaecati aliquam velit at laboriosam quisquam, voluptas praesentium, ipsa illo quae, doloremque inventore? Aliquid distinctio corporis dicta optio itaque totam sint adipisci ad? Error ad ratione, vero eius consequatur impedit consectetur.</p>
+        </div>
+        <div class="body_2_3">
+            <h2>So,what you're saying is .....?</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quos assumenda vel, nesciunt recusandae pariatur dolorum dolores veniam doloribus, fugiat odit libero doloremque mollitia excepturi itaque voluptates maxime suscipit! Deserunt odit fuga assumenda officia quos non explicabo esse fugit quaerat. Maiores quo doloribus rem! Perspiciatis accusantium iste cupiditate facere eaque!</p>
+        </div>
+    </div>
+ 
+    <center><a href = "https://codepen.io/HARSHINI-GOPISETTY/pen/poBwEzv" target="_blank">Next Assignment</a></center></body>
+</body>
+</html>
