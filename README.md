@@ -72,7 +72,6 @@ This repository contains various **practice assignments** completed as part of m
 - [Assignment 6](https://codesandbox.io/p/devbox/code-6-rvv62n)
 - [Assignment 7](https://codesandbox.io/p/devbox/code-7-fsl75l)
 - [Assignment 8](https://codesandbox.io/p/devbox/code-8-t6vkf6)
-- [Assignment 9](https://codesandbox.io/p/devbox/code-9-5mwwsv)
 
 ---
 
